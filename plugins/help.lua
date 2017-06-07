@@ -63,7 +63,12 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨سایت اصلی: Tarfand.Ir ✨
+✨
+Design By Ramin Metal
+    Bot: @FMShop_Bot
+    Channel: @XoPoeM
+    
+✨
 </i>]]
 end
 
